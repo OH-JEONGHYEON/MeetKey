@@ -1,1 +1,1 @@
-# Meetkey
+# Meetkey - 인공지능 기반의 회의 분석 서비스
